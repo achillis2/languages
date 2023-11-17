@@ -10,3 +10,4 @@ credentials
 media/
 *.xlsx
 db.sqlite3
+.DS_Store
